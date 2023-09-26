@@ -13,9 +13,9 @@ Creator of the repository: Ilias Samathrakis
 * [Where is the dashboard?](#dashboard)
 * [Data Management](#data)
 
-## What is English friendliness <a name="friendliness"></a>
+## What is English friendliness? <a name="friendliness"></a>
 
-% of job postings independent of the local language(s)
+% of job postings independent of the local language(s) of a country
 
 ## About <a name="about"></a>
 
@@ -28,6 +28,8 @@ You can use it to answer the following questions:
 3. Which is the most English friendly European country?
 4. Which are the most local language friendly employers?
 5. Which are the most English friendly employers?
+
+The dashboard aims at providing a real time tool for more targeted job search.
 
 ## How to use <a name="howtouse"></a>
 
