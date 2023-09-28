@@ -9,7 +9,7 @@ Creator of the repository: Ilias Samathrakis
 
 * [What is English friendliness?](#friendliness)
 * [About](#about)
-* [Required Skills](#skills)
+* [Utilized Skills](#skills)
 * [How to use](#howtouse)
 * [Where is the dashboard?](#dashboard)
 * [Data Management](#data)
@@ -29,9 +29,9 @@ This repository is linked to an interactive dashboard that provides you with ans
 
 The dashboard aims at providing a real time tool for more targeted job search.
 
-## Required skills <a name="skills"></a>
+## Utilized skills <a name="skills"></a>
 
-- Data collection: **SQL**, **Python**
+- Data collection: **SQL** & **Python**
 - Data analysis: **Python** (Beautifulsoup, pandas, numpy, spacy)
 - Data visualization: **Tableau**
 - Data pipeline: **Jupyter Notebook**
