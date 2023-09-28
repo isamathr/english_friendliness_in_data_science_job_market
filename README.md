@@ -32,9 +32,9 @@ The dashboard aims at providing a real time tool for more targeted job search.
 
 The dashboard includes two filters **job titles** and **countries**. Explore it based on your needs and get the information you need.
 
-## Where is the dashboard <a name="dashboard"></a>
+## Where is the dashboard? <a name="dashboard"></a>
 
-You can find the dashboard under the link:
+You can find the dashboard under the [link](https://public.tableau.com/app/profile/ilias.samathrakis/viz/EnglishFriendlinessinDataScienceJobMarket/Dashboard1?publish=yes):
 
 https://public.tableau.com/app/profile/ilias.samathrakis/viz/EnglishFriendlinessinDataScienceJobMarket/Dashboard1?publish=yes
 
