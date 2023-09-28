@@ -24,8 +24,8 @@ This repository is linked to an interactive dashboard that provides you with ans
 
 1. How many job postings are there in my field?
 2. What percentage of job postings are written in English?
-3. What are the most English friendly country and employer?
-4. What are the most local language friendly countries and employer?
+3. What are the most English friendly countries and employers?
+4. What are the most local language friendly countries and employers?
 
 The dashboard aims at providing a real time tool for more targeted job search.
 
@@ -39,7 +39,7 @@ The dashboard aims at providing a real time tool for more targeted job search.
 
 ## How to use <a name="howtouse"></a>
 
-In the dashboard you can filter data by:
+In the dashboard you can filter data by clicking on:
 
 - job titles
 - countries
