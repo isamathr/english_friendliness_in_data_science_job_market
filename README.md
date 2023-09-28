@@ -9,6 +9,7 @@ Creator of the repository: Ilias Samathrakis
 
 * [What is English friendliness?](#friendliness)
 * [About](#about)
+* [Required Skills](#skills)
 * [How to use](#howtouse)
 * [Where is the dashboard?](#dashboard)
 * [Data Management](#data)
@@ -27,6 +28,14 @@ This repository is linked to an interactive dashboard that provides you with ans
 4. What are the most local language friendly countries and employer?
 
 The dashboard aims at providing a real time tool for more targeted job search.
+
+## Required skills <a name="skills"></a>
+
+- Data collection: **SQL**, **Python**
+- Data analysis: **Python** (Beautifulsoup, pandas, numpy, spacy)
+- Data visualization: **Tableau**
+- Data pipeline: **Jupyter Notebook**
+- Data warehouse: **Google BigQuery/**
 
 ## How to use <a name="howtouse"></a>
 
