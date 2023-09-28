@@ -35,11 +35,14 @@ The dashboard aims at providing a real time tool for more targeted job search.
 - Data analysis: **Python** (Beautifulsoup, pandas, numpy, spacy)
 - Data visualization: **Tableau**
 - Data pipeline: **Jupyter Notebook**
-- Data warehouse: **Google BigQuery/**
+- Data warehouse: **Google BigQuery**
 
 ## How to use <a name="howtouse"></a>
 
-The dashboard includes two filters **job titles** and **countries**. Explore it based on your needs and get the information you need.
+In the dashboard you can filter data by:
+
+- job titles
+- countries
 
 ## Where is the dashboard? <a name="dashboard"></a>
 
