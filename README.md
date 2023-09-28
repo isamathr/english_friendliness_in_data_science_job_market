@@ -19,15 +19,12 @@ Creator of the repository: Ilias Samathrakis
 
 ## About <a name="about"></a>
 
-This repository is linked to an interactive dashboard that helps you identifying English-friendly employers and countries across Europe
-
-You can use it to answer the following questions:
+This repository is linked to an interactive dashboard that provides you with answers to the following questions:
 
 1. How many job postings are there in my field?
-2. What percentage of job postings are written in English for each country?
-3. Which is the most English friendly European country?
-4. Which are the most local language friendly employers?
-5. Which are the most English friendly employers?
+2. What percentage of job postings are written in English?
+3. What are the most English friendly country and employer?
+4. What are the most local language friendly countries and employer?
 
 The dashboard aims at providing a real time tool for more targeted job search.
 
@@ -35,7 +32,7 @@ The dashboard aims at providing a real time tool for more targeted job search.
 
 The dashboard includes two filters **job titles** and **countries**. Explore it based on your needs and get the information you need.
 
-## Where is the dashboard? <a name="dashboard"></a>
+## Where is the dashboard <a name="dashboard"></a>
 
 You can find the dashboard under the link:
 
